@@ -1,0 +1,39 @@
+personal_info: 
+  name: "Топоров Александр" 
+  contact: 
+    email: "sasha_toporov20030718@inbox.ru" 
+    phone: "+79138648978" 
+    github: "https://github.com/Suzuye" 
+  summary: "Краткое описание о себе: Сигма."
+
+education: 
+  - degree: "Бакалавриат"
+    university: "ТУСУР"
+    start_date: "Сентябрь 2021"
+    end_date: "Июль 2025"
+
+work_experience: "No work experience"
+
+skills: 
+  programming_languages: 
+    - name: "C#"
+      level: "advanced"
+    - name: "JavaScript"
+      level: "medium"
+  tools_and_frameworks: 
+    - name: "Django"
+      level: "advanced"
+    - name: "Vue.js"
+      level: "medium"
+  other_skills: 
+    - name: "Средний уровень английского языка"
+    - name: "Управление проектами"
+    - name: "Высокий уровень звукоинженерии"
+
+projects: 
+  - name: "Online Photo Editor"
+    description: "Сайт 'Онлайн редактор фото'."
+    stack: 
+      - "JavaScript"
+      - "html"
+      - "css"
